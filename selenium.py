@@ -4,8 +4,8 @@ import time
 def get_douban_comments(url):
     comments_list=[]
     login_url="https://accounts.douban.com/login?source=movie"
-    user_name="939912895@qq.com"
-    password="ll19960918"
+    user_name="xxxxx"
+    password="xxxx"
     driver=webdriver.Chrome()
     driver.get(login_url)
     driver.find_element_by_id('email').clear()
