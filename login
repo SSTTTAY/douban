@@ -22,8 +22,8 @@ url2 = 'https://movie.douban.com/subject/26387939/comments?sort=new_score&status
 
 formdata={
   "redir":"https://www.douban.com/",
-  "form_email":"15627868532",
-  "form_password":"ll19960918",
+  "form_email":"xxxxx",
+  "form_password":"xxxxx",
   #'captcha-solution':'blood',
   #'captcha-id':'cRPGXEYPFHjkfv3u7K4Pm0v1:en',
   "login":u"登录"
